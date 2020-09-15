@@ -144,8 +144,6 @@
             this.label45 = new System.Windows.Forms.Label();
             this.button_GameClose2 = new System.Windows.Forms.Button();
             this.centerPanLv2 = new System.Windows.Forms.Panel();
-            this.lblGamePa20816 = new System.Windows.Forms.Label();
-            this.lblGamePa20815 = new System.Windows.Forms.Label();
             this.lblGamePa20814 = new System.Windows.Forms.Label();
             this.lblGamePa20813 = new System.Windows.Forms.Label();
             this.lblGamePa20812 = new System.Windows.Forms.Label();
@@ -158,9 +156,6 @@
             this.lblGamePa20805 = new System.Windows.Forms.Label();
             this.lblGamePa20804 = new System.Windows.Forms.Label();
             this.lblGamePa20803 = new System.Windows.Forms.Label();
-            this.lblGamePa20802 = new System.Windows.Forms.Label();
-            this.lblGamePa20801 = new System.Windows.Forms.Label();
-            this.lblGamePa20716 = new System.Windows.Forms.Label();
             this.lblGamePa20715 = new System.Windows.Forms.Label();
             this.lblGamePa20714 = new System.Windows.Forms.Label();
             this.lblGamePa20713 = new System.Windows.Forms.Label();
@@ -168,7 +163,6 @@
             this.lblGamePa20711 = new System.Windows.Forms.Label();
             this.lblGamePa20710 = new System.Windows.Forms.Label();
             this.lblGamePa20709 = new System.Windows.Forms.Label();
-            this.lblGamePa20616 = new System.Windows.Forms.Label();
             this.lblGamePa20615 = new System.Windows.Forms.Label();
             this.lblGamePa20614 = new System.Windows.Forms.Label();
             this.lblGamePa20613 = new System.Windows.Forms.Label();
@@ -176,7 +170,6 @@
             this.lblGamePa20611 = new System.Windows.Forms.Label();
             this.lblGamePa20610 = new System.Windows.Forms.Label();
             this.lblGamePa20609 = new System.Windows.Forms.Label();
-            this.lblGamePa20516 = new System.Windows.Forms.Label();
             this.lblGamePa20515 = new System.Windows.Forms.Label();
             this.lblGamePa20514 = new System.Windows.Forms.Label();
             this.lblGamePa20513 = new System.Windows.Forms.Label();
@@ -184,7 +177,6 @@
             this.lblGamePa20511 = new System.Windows.Forms.Label();
             this.lblGamePa20510 = new System.Windows.Forms.Label();
             this.lblGamePa20509 = new System.Windows.Forms.Label();
-            this.lblGamePa20416 = new System.Windows.Forms.Label();
             this.lblGamePa20415 = new System.Windows.Forms.Label();
             this.lblGamePa20414 = new System.Windows.Forms.Label();
             this.lblGamePa20413 = new System.Windows.Forms.Label();
@@ -192,7 +184,6 @@
             this.lblGamePa20411 = new System.Windows.Forms.Label();
             this.lblGamePa20410 = new System.Windows.Forms.Label();
             this.lblGamePa20409 = new System.Windows.Forms.Label();
-            this.lblGamePa20316 = new System.Windows.Forms.Label();
             this.lblGamePa20315 = new System.Windows.Forms.Label();
             this.lblGamePa20314 = new System.Windows.Forms.Label();
             this.lblGamePa20313 = new System.Windows.Forms.Label();
@@ -200,7 +191,6 @@
             this.lblGamePa20311 = new System.Windows.Forms.Label();
             this.lblGamePa20310 = new System.Windows.Forms.Label();
             this.lblGamePa20309 = new System.Windows.Forms.Label();
-            this.lblGamePa20216 = new System.Windows.Forms.Label();
             this.lblGamePa20215 = new System.Windows.Forms.Label();
             this.lblGamePa20214 = new System.Windows.Forms.Label();
             this.lblGamePa20213 = new System.Windows.Forms.Label();
@@ -208,8 +198,6 @@
             this.lblGamePa20211 = new System.Windows.Forms.Label();
             this.lblGamePa20210 = new System.Windows.Forms.Label();
             this.lblGamePa20209 = new System.Windows.Forms.Label();
-            this.lblGamePa20116 = new System.Windows.Forms.Label();
-            this.lblGamePa20115 = new System.Windows.Forms.Label();
             this.lblGamePa20114 = new System.Windows.Forms.Label();
             this.lblGamePa20113 = new System.Windows.Forms.Label();
             this.lblGamePa20112 = new System.Windows.Forms.Label();
@@ -223,7 +211,6 @@
             this.lblGamePa20704 = new System.Windows.Forms.Label();
             this.lblGamePa20703 = new System.Windows.Forms.Label();
             this.lblGamePa20702 = new System.Windows.Forms.Label();
-            this.lblGamePa20701 = new System.Windows.Forms.Label();
             this.lblGamePa20608 = new System.Windows.Forms.Label();
             this.lblGamePa20607 = new System.Windows.Forms.Label();
             this.lblGamePa20606 = new System.Windows.Forms.Label();
@@ -231,7 +218,6 @@
             this.lblGamePa20604 = new System.Windows.Forms.Label();
             this.lblGamePa20603 = new System.Windows.Forms.Label();
             this.lblGamePa20602 = new System.Windows.Forms.Label();
-            this.lblGamePa20601 = new System.Windows.Forms.Label();
             this.lblGamePa20508 = new System.Windows.Forms.Label();
             this.lblGamePa20507 = new System.Windows.Forms.Label();
             this.lblGamePa20506 = new System.Windows.Forms.Label();
@@ -239,7 +225,6 @@
             this.lblGamePa20504 = new System.Windows.Forms.Label();
             this.lblGamePa20503 = new System.Windows.Forms.Label();
             this.lblGamePa20502 = new System.Windows.Forms.Label();
-            this.lblGamePa20501 = new System.Windows.Forms.Label();
             this.lblGamePa20408 = new System.Windows.Forms.Label();
             this.lblGamePa20407 = new System.Windows.Forms.Label();
             this.lblGamePa20406 = new System.Windows.Forms.Label();
@@ -247,7 +232,6 @@
             this.lblGamePa20404 = new System.Windows.Forms.Label();
             this.lblGamePa20403 = new System.Windows.Forms.Label();
             this.lblGamePa20402 = new System.Windows.Forms.Label();
-            this.lblGamePa20401 = new System.Windows.Forms.Label();
             this.lblGamePa20308 = new System.Windows.Forms.Label();
             this.lblGamePa20307 = new System.Windows.Forms.Label();
             this.lblGamePa20306 = new System.Windows.Forms.Label();
@@ -255,7 +239,6 @@
             this.lblGamePa20304 = new System.Windows.Forms.Label();
             this.lblGamePa20303 = new System.Windows.Forms.Label();
             this.lblGamePa20302 = new System.Windows.Forms.Label();
-            this.lblGamePa20301 = new System.Windows.Forms.Label();
             this.lblGamePa20208 = new System.Windows.Forms.Label();
             this.lblGamePa20207 = new System.Windows.Forms.Label();
             this.lblGamePa20206 = new System.Windows.Forms.Label();
@@ -263,15 +246,12 @@
             this.lblGamePa20204 = new System.Windows.Forms.Label();
             this.lblGamePa20203 = new System.Windows.Forms.Label();
             this.lblGamePa20202 = new System.Windows.Forms.Label();
-            this.lblGamePa20201 = new System.Windows.Forms.Label();
             this.lblGamePa20108 = new System.Windows.Forms.Label();
             this.lblGamePa20107 = new System.Windows.Forms.Label();
             this.lblGamePa20106 = new System.Windows.Forms.Label();
             this.lblGamePa20105 = new System.Windows.Forms.Label();
             this.lblGamePa20104 = new System.Windows.Forms.Label();
             this.lblGamePa20103 = new System.Windows.Forms.Label();
-            this.lblGamePa20102 = new System.Windows.Forms.Label();
-            this.lblGamePa20101 = new System.Windows.Forms.Label();
             this.panel5 = new System.Windows.Forms.Panel();
             this.label175 = new System.Windows.Forms.Label();
             this.lblWarringUP_HardTEXT = new System.Windows.Forms.Label();
@@ -720,6 +700,7 @@
             // listViewUserList
             // 
             this.listViewUserList.FullRowSelect = true;
+            this.listViewUserList.HideSelection = false;
             this.listViewUserList.Location = new System.Drawing.Point(7, 175);
             this.listViewUserList.Name = "listViewUserList";
             this.listViewUserList.Size = new System.Drawing.Size(228, 377);
@@ -890,9 +871,9 @@
             this.pan_GAMEBoard1.Controls.Add(this.movelbl);
             this.pan_GAMEBoard1.Controls.Add(this.button_GameClose);
             this.pan_GAMEBoard1.Controls.Add(this.centerPanLv1);
-            this.pan_GAMEBoard1.Location = new System.Drawing.Point(21, 37);
+            this.pan_GAMEBoard1.Location = new System.Drawing.Point(131, 38);
             this.pan_GAMEBoard1.Name = "pan_GAMEBoard1";
-            this.pan_GAMEBoard1.Size = new System.Drawing.Size(757, 176);
+            this.pan_GAMEBoard1.Size = new System.Drawing.Size(298, 71);
             this.pan_GAMEBoard1.TabIndex = 24;
             this.pan_GAMEBoard1.Visible = false;
             // 
@@ -1832,9 +1813,9 @@
             this.pan_GAMEBoard2.Controls.Add(this.button_GameClose2);
             this.pan_GAMEBoard2.Controls.Add(this.centerPanLv2);
             this.pan_GAMEBoard2.Controls.Add(this.panel5);
-            this.pan_GAMEBoard2.Location = new System.Drawing.Point(23, 115);
+            this.pan_GAMEBoard2.Location = new System.Drawing.Point(15, 40);
             this.pan_GAMEBoard2.Name = "pan_GAMEBoard2";
-            this.pan_GAMEBoard2.Size = new System.Drawing.Size(211, 61);
+            this.pan_GAMEBoard2.Size = new System.Drawing.Size(993, 619);
             this.pan_GAMEBoard2.TabIndex = 28;
             this.pan_GAMEBoard2.Visible = false;
             // 
@@ -1937,8 +1918,6 @@
             // centerPanLv2
             // 
             this.centerPanLv2.BackColor = System.Drawing.Color.Transparent;
-            this.centerPanLv2.Controls.Add(this.lblGamePa20816);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20815);
             this.centerPanLv2.Controls.Add(this.lblGamePa20814);
             this.centerPanLv2.Controls.Add(this.lblGamePa20813);
             this.centerPanLv2.Controls.Add(this.lblGamePa20812);
@@ -1951,9 +1930,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20805);
             this.centerPanLv2.Controls.Add(this.lblGamePa20804);
             this.centerPanLv2.Controls.Add(this.lblGamePa20803);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20802);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20801);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20716);
             this.centerPanLv2.Controls.Add(this.lblGamePa20715);
             this.centerPanLv2.Controls.Add(this.lblGamePa20714);
             this.centerPanLv2.Controls.Add(this.lblGamePa20713);
@@ -1961,7 +1937,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20711);
             this.centerPanLv2.Controls.Add(this.lblGamePa20710);
             this.centerPanLv2.Controls.Add(this.lblGamePa20709);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20616);
             this.centerPanLv2.Controls.Add(this.lblGamePa20615);
             this.centerPanLv2.Controls.Add(this.lblGamePa20614);
             this.centerPanLv2.Controls.Add(this.lblGamePa20613);
@@ -1969,7 +1944,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20611);
             this.centerPanLv2.Controls.Add(this.lblGamePa20610);
             this.centerPanLv2.Controls.Add(this.lblGamePa20609);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20516);
             this.centerPanLv2.Controls.Add(this.lblGamePa20515);
             this.centerPanLv2.Controls.Add(this.lblGamePa20514);
             this.centerPanLv2.Controls.Add(this.lblGamePa20513);
@@ -1977,7 +1951,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20511);
             this.centerPanLv2.Controls.Add(this.lblGamePa20510);
             this.centerPanLv2.Controls.Add(this.lblGamePa20509);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20416);
             this.centerPanLv2.Controls.Add(this.lblGamePa20415);
             this.centerPanLv2.Controls.Add(this.lblGamePa20414);
             this.centerPanLv2.Controls.Add(this.lblGamePa20413);
@@ -1985,7 +1958,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20411);
             this.centerPanLv2.Controls.Add(this.lblGamePa20410);
             this.centerPanLv2.Controls.Add(this.lblGamePa20409);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20316);
             this.centerPanLv2.Controls.Add(this.lblGamePa20315);
             this.centerPanLv2.Controls.Add(this.lblGamePa20314);
             this.centerPanLv2.Controls.Add(this.lblGamePa20313);
@@ -1993,7 +1965,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20311);
             this.centerPanLv2.Controls.Add(this.lblGamePa20310);
             this.centerPanLv2.Controls.Add(this.lblGamePa20309);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20216);
             this.centerPanLv2.Controls.Add(this.lblGamePa20215);
             this.centerPanLv2.Controls.Add(this.lblGamePa20214);
             this.centerPanLv2.Controls.Add(this.lblGamePa20213);
@@ -2001,8 +1972,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20211);
             this.centerPanLv2.Controls.Add(this.lblGamePa20210);
             this.centerPanLv2.Controls.Add(this.lblGamePa20209);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20116);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20115);
             this.centerPanLv2.Controls.Add(this.lblGamePa20114);
             this.centerPanLv2.Controls.Add(this.lblGamePa20113);
             this.centerPanLv2.Controls.Add(this.lblGamePa20112);
@@ -2016,7 +1985,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20704);
             this.centerPanLv2.Controls.Add(this.lblGamePa20703);
             this.centerPanLv2.Controls.Add(this.lblGamePa20702);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20701);
             this.centerPanLv2.Controls.Add(this.lblGamePa20608);
             this.centerPanLv2.Controls.Add(this.lblGamePa20607);
             this.centerPanLv2.Controls.Add(this.lblGamePa20606);
@@ -2024,7 +1992,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20604);
             this.centerPanLv2.Controls.Add(this.lblGamePa20603);
             this.centerPanLv2.Controls.Add(this.lblGamePa20602);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20601);
             this.centerPanLv2.Controls.Add(this.lblGamePa20508);
             this.centerPanLv2.Controls.Add(this.lblGamePa20507);
             this.centerPanLv2.Controls.Add(this.lblGamePa20506);
@@ -2032,7 +1999,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20504);
             this.centerPanLv2.Controls.Add(this.lblGamePa20503);
             this.centerPanLv2.Controls.Add(this.lblGamePa20502);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20501);
             this.centerPanLv2.Controls.Add(this.lblGamePa20408);
             this.centerPanLv2.Controls.Add(this.lblGamePa20407);
             this.centerPanLv2.Controls.Add(this.lblGamePa20406);
@@ -2040,7 +2006,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20404);
             this.centerPanLv2.Controls.Add(this.lblGamePa20403);
             this.centerPanLv2.Controls.Add(this.lblGamePa20402);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20401);
             this.centerPanLv2.Controls.Add(this.lblGamePa20308);
             this.centerPanLv2.Controls.Add(this.lblGamePa20307);
             this.centerPanLv2.Controls.Add(this.lblGamePa20306);
@@ -2048,7 +2013,6 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20304);
             this.centerPanLv2.Controls.Add(this.lblGamePa20303);
             this.centerPanLv2.Controls.Add(this.lblGamePa20302);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20301);
             this.centerPanLv2.Controls.Add(this.lblGamePa20208);
             this.centerPanLv2.Controls.Add(this.lblGamePa20207);
             this.centerPanLv2.Controls.Add(this.lblGamePa20206);
@@ -2056,42 +2020,17 @@
             this.centerPanLv2.Controls.Add(this.lblGamePa20204);
             this.centerPanLv2.Controls.Add(this.lblGamePa20203);
             this.centerPanLv2.Controls.Add(this.lblGamePa20202);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20201);
             this.centerPanLv2.Controls.Add(this.lblGamePa20108);
             this.centerPanLv2.Controls.Add(this.lblGamePa20107);
             this.centerPanLv2.Controls.Add(this.lblGamePa20106);
             this.centerPanLv2.Controls.Add(this.lblGamePa20105);
             this.centerPanLv2.Controls.Add(this.lblGamePa20104);
             this.centerPanLv2.Controls.Add(this.lblGamePa20103);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20102);
-            this.centerPanLv2.Controls.Add(this.lblGamePa20101);
             this.centerPanLv2.Location = new System.Drawing.Point(98, 55);
             this.centerPanLv2.Name = "centerPanLv2";
             this.centerPanLv2.Size = new System.Drawing.Size(824, 550);
             this.centerPanLv2.TabIndex = 151;
             this.centerPanLv2.Visible = false;
-            // 
-            // lblGamePa20816
-            // 
-            this.lblGamePa20816.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20816.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20816.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20816.Location = new System.Drawing.Point(759, 475);
-            this.lblGamePa20816.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20816.Name = "lblGamePa20816";
-            this.lblGamePa20816.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20816.TabIndex = 287;
-            // 
-            // lblGamePa20815
-            // 
-            this.lblGamePa20815.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20815.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20815.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20815.Location = new System.Drawing.Point(709, 475);
-            this.lblGamePa20815.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20815.Name = "lblGamePa20815";
-            this.lblGamePa20815.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20815.TabIndex = 286;
             // 
             // lblGamePa20814
             // 
@@ -2225,39 +2164,6 @@
             this.lblGamePa20803.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20803.TabIndex = 274;
             // 
-            // lblGamePa20802
-            // 
-            this.lblGamePa20802.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20802.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20802.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20802.Location = new System.Drawing.Point(59, 475);
-            this.lblGamePa20802.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20802.Name = "lblGamePa20802";
-            this.lblGamePa20802.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20802.TabIndex = 273;
-            // 
-            // lblGamePa20801
-            // 
-            this.lblGamePa20801.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20801.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20801.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20801.Location = new System.Drawing.Point(9, 475);
-            this.lblGamePa20801.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20801.Name = "lblGamePa20801";
-            this.lblGamePa20801.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20801.TabIndex = 272;
-            // 
-            // lblGamePa20716
-            // 
-            this.lblGamePa20716.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20716.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20716.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20716.Location = new System.Drawing.Point(759, 408);
-            this.lblGamePa20716.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20716.Name = "lblGamePa20716";
-            this.lblGamePa20716.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20716.TabIndex = 264;
-            // 
             // lblGamePa20715
             // 
             this.lblGamePa20715.BackColor = System.Drawing.Color.ForestGreen;
@@ -2334,17 +2240,6 @@
             this.lblGamePa20709.Name = "lblGamePa20709";
             this.lblGamePa20709.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20709.TabIndex = 257;
-            // 
-            // lblGamePa20616
-            // 
-            this.lblGamePa20616.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20616.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20616.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20616.Location = new System.Drawing.Point(759, 341);
-            this.lblGamePa20616.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20616.Name = "lblGamePa20616";
-            this.lblGamePa20616.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20616.TabIndex = 256;
             // 
             // lblGamePa20615
             // 
@@ -2423,17 +2318,6 @@
             this.lblGamePa20609.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20609.TabIndex = 249;
             // 
-            // lblGamePa20516
-            // 
-            this.lblGamePa20516.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20516.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20516.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20516.Location = new System.Drawing.Point(759, 274);
-            this.lblGamePa20516.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20516.Name = "lblGamePa20516";
-            this.lblGamePa20516.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20516.TabIndex = 248;
-            // 
             // lblGamePa20515
             // 
             this.lblGamePa20515.BackColor = System.Drawing.Color.ForestGreen;
@@ -2510,17 +2394,6 @@
             this.lblGamePa20509.Name = "lblGamePa20509";
             this.lblGamePa20509.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20509.TabIndex = 241;
-            // 
-            // lblGamePa20416
-            // 
-            this.lblGamePa20416.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20416.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20416.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20416.Location = new System.Drawing.Point(759, 207);
-            this.lblGamePa20416.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20416.Name = "lblGamePa20416";
-            this.lblGamePa20416.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20416.TabIndex = 240;
             // 
             // lblGamePa20415
             // 
@@ -2599,17 +2472,6 @@
             this.lblGamePa20409.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20409.TabIndex = 233;
             // 
-            // lblGamePa20316
-            // 
-            this.lblGamePa20316.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20316.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20316.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20316.Location = new System.Drawing.Point(759, 140);
-            this.lblGamePa20316.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20316.Name = "lblGamePa20316";
-            this.lblGamePa20316.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20316.TabIndex = 232;
-            // 
             // lblGamePa20315
             // 
             this.lblGamePa20315.BackColor = System.Drawing.Color.ForestGreen;
@@ -2687,17 +2549,6 @@
             this.lblGamePa20309.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20309.TabIndex = 225;
             // 
-            // lblGamePa20216
-            // 
-            this.lblGamePa20216.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20216.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20216.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20216.Location = new System.Drawing.Point(759, 73);
-            this.lblGamePa20216.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20216.Name = "lblGamePa20216";
-            this.lblGamePa20216.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20216.TabIndex = 224;
-            // 
             // lblGamePa20215
             // 
             this.lblGamePa20215.BackColor = System.Drawing.Color.ForestGreen;
@@ -2774,28 +2625,6 @@
             this.lblGamePa20209.Name = "lblGamePa20209";
             this.lblGamePa20209.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20209.TabIndex = 217;
-            // 
-            // lblGamePa20116
-            // 
-            this.lblGamePa20116.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20116.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20116.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20116.Location = new System.Drawing.Point(759, 6);
-            this.lblGamePa20116.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20116.Name = "lblGamePa20116";
-            this.lblGamePa20116.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20116.TabIndex = 216;
-            // 
-            // lblGamePa20115
-            // 
-            this.lblGamePa20115.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20115.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20115.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20115.Location = new System.Drawing.Point(709, 6);
-            this.lblGamePa20115.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20115.Name = "lblGamePa20115";
-            this.lblGamePa20115.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20115.TabIndex = 215;
             // 
             // lblGamePa20114
             // 
@@ -2940,17 +2769,6 @@
             this.lblGamePa20702.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20702.TabIndex = 202;
             // 
-            // lblGamePa20701
-            // 
-            this.lblGamePa20701.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20701.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20701.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20701.Location = new System.Drawing.Point(9, 408);
-            this.lblGamePa20701.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20701.Name = "lblGamePa20701";
-            this.lblGamePa20701.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20701.TabIndex = 201;
-            // 
             // lblGamePa20608
             // 
             this.lblGamePa20608.BackColor = System.Drawing.Color.ForestGreen;
@@ -3027,17 +2845,6 @@
             this.lblGamePa20602.Name = "lblGamePa20602";
             this.lblGamePa20602.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20602.TabIndex = 194;
-            // 
-            // lblGamePa20601
-            // 
-            this.lblGamePa20601.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20601.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20601.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20601.Location = new System.Drawing.Point(9, 341);
-            this.lblGamePa20601.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20601.Name = "lblGamePa20601";
-            this.lblGamePa20601.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20601.TabIndex = 193;
             // 
             // lblGamePa20508
             // 
@@ -3116,17 +2923,6 @@
             this.lblGamePa20502.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20502.TabIndex = 186;
             // 
-            // lblGamePa20501
-            // 
-            this.lblGamePa20501.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20501.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20501.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20501.Location = new System.Drawing.Point(9, 274);
-            this.lblGamePa20501.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20501.Name = "lblGamePa20501";
-            this.lblGamePa20501.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20501.TabIndex = 185;
-            // 
             // lblGamePa20408
             // 
             this.lblGamePa20408.BackColor = System.Drawing.Color.ForestGreen;
@@ -3203,17 +2999,6 @@
             this.lblGamePa20402.Name = "lblGamePa20402";
             this.lblGamePa20402.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20402.TabIndex = 178;
-            // 
-            // lblGamePa20401
-            // 
-            this.lblGamePa20401.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20401.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20401.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20401.Location = new System.Drawing.Point(9, 207);
-            this.lblGamePa20401.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20401.Name = "lblGamePa20401";
-            this.lblGamePa20401.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20401.TabIndex = 177;
             // 
             // lblGamePa20308
             // 
@@ -3292,17 +3077,6 @@
             this.lblGamePa20302.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20302.TabIndex = 170;
             // 
-            // lblGamePa20301
-            // 
-            this.lblGamePa20301.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20301.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20301.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20301.Location = new System.Drawing.Point(9, 140);
-            this.lblGamePa20301.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20301.Name = "lblGamePa20301";
-            this.lblGamePa20301.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20301.TabIndex = 169;
-            // 
             // lblGamePa20208
             // 
             this.lblGamePa20208.BackColor = System.Drawing.Color.ForestGreen;
@@ -3380,17 +3154,6 @@
             this.lblGamePa20202.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20202.TabIndex = 162;
             // 
-            // lblGamePa20201
-            // 
-            this.lblGamePa20201.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20201.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20201.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20201.Location = new System.Drawing.Point(9, 73);
-            this.lblGamePa20201.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20201.Name = "lblGamePa20201";
-            this.lblGamePa20201.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20201.TabIndex = 161;
-            // 
             // lblGamePa20108
             // 
             this.lblGamePa20108.BackColor = System.Drawing.Color.ForestGreen;
@@ -3457,28 +3220,6 @@
             this.lblGamePa20103.Size = new System.Drawing.Size(50, 68);
             this.lblGamePa20103.TabIndex = 155;
             // 
-            // lblGamePa20102
-            // 
-            this.lblGamePa20102.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20102.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20102.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20102.Location = new System.Drawing.Point(59, 6);
-            this.lblGamePa20102.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20102.Name = "lblGamePa20102";
-            this.lblGamePa20102.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20102.TabIndex = 154;
-            // 
-            // lblGamePa20101
-            // 
-            this.lblGamePa20101.BackColor = System.Drawing.Color.ForestGreen;
-            this.lblGamePa20101.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblGamePa20101.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.lblGamePa20101.Location = new System.Drawing.Point(9, 6);
-            this.lblGamePa20101.Margin = new System.Windows.Forms.Padding(0);
-            this.lblGamePa20101.Name = "lblGamePa20101";
-            this.lblGamePa20101.Size = new System.Drawing.Size(50, 68);
-            this.lblGamePa20101.TabIndex = 153;
-            // 
             // panel5
             // 
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
@@ -3528,9 +3269,9 @@
             this.pan_GAMEBoard3.Controls.Add(this.label9);
             this.pan_GAMEBoard3.Controls.Add(this.button_GameClose3);
             this.pan_GAMEBoard3.Controls.Add(this.centerPanLv3);
-            this.pan_GAMEBoard3.Location = new System.Drawing.Point(23, 182);
+            this.pan_GAMEBoard3.Location = new System.Drawing.Point(36, 171);
             this.pan_GAMEBoard3.Name = "pan_GAMEBoard3";
-            this.pan_GAMEBoard3.Size = new System.Drawing.Size(208, 65);
+            this.pan_GAMEBoard3.Size = new System.Drawing.Size(643, 150);
             this.pan_GAMEBoard3.TabIndex = 159;
             this.pan_GAMEBoard3.Visible = false;
             // 
@@ -4255,9 +3996,9 @@
             this.pan_GAMEBoard4.Controls.Add(this.label12);
             this.pan_GAMEBoard4.Controls.Add(this.button_GameClose4);
             this.pan_GAMEBoard4.Controls.Add(this.centerPanLv4);
-            this.pan_GAMEBoard4.Location = new System.Drawing.Point(11, 120);
+            this.pan_GAMEBoard4.Location = new System.Drawing.Point(11, 259);
             this.pan_GAMEBoard4.Name = "pan_GAMEBoard4";
-            this.pan_GAMEBoard4.Size = new System.Drawing.Size(923, 388);
+            this.pan_GAMEBoard4.Size = new System.Drawing.Size(547, 94);
             this.pan_GAMEBoard4.TabIndex = 160;
             this.pan_GAMEBoard4.Visible = false;
             // 
@@ -6686,14 +6427,13 @@
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1264, 681);
             this.ControlBox = false;
-            this.Controls.Add(this.pnl_CashPaeImage);
-            this.Controls.Add(this.richtxt_ChatWindows);
-            this.Controls.Add(this.txt_ErrLog);
-            this.Controls.Add(this.pan_GAMEBoard4);
-            this.Controls.Add(this.pnl_GameEnd);
-            this.Controls.Add(this.pan_GAMEBoard1);
             this.Controls.Add(this.pan_GAMEBoard2);
             this.Controls.Add(this.pan_GAMEBoard3);
+            this.Controls.Add(this.pnl_CashPaeImage);
+            this.Controls.Add(this.pan_GAMEBoard4);
+            this.Controls.Add(this.richtxt_ChatWindows);
+            this.Controls.Add(this.txt_ErrLog);
+            this.Controls.Add(this.pan_GAMEBoard1);
             this.Controls.Add(this.txtSend);
             this.Controls.Add(this.Pan_UserList);
             this.Controls.Add(this.pan_Login);
@@ -6701,6 +6441,7 @@
             this.Controls.Add(this.lblGameNowPoint);
             this.Controls.Add(this.pan_GAMEBoard5);
             this.Controls.Add(this.lblWarringUP_HardTEXT);
+            this.Controls.Add(this.pnl_GameEnd);
             this.DoubleBuffered = true;
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -6844,8 +6585,6 @@
         public System.Windows.Forms.Label label45;
         private System.Windows.Forms.Button button_GameClose2;
         private System.Windows.Forms.Panel centerPanLv2;
-        public System.Windows.Forms.Label lblGamePa20816;
-        public System.Windows.Forms.Label lblGamePa20815;
         public System.Windows.Forms.Label lblGamePa20814;
         public System.Windows.Forms.Label lblGamePa20813;
         public System.Windows.Forms.Label lblGamePa20812;
@@ -6858,9 +6597,6 @@
         public System.Windows.Forms.Label lblGamePa20805;
         public System.Windows.Forms.Label lblGamePa20804;
         public System.Windows.Forms.Label lblGamePa20803;
-        public System.Windows.Forms.Label lblGamePa20802;
-        public System.Windows.Forms.Label lblGamePa20801;
-        public System.Windows.Forms.Label lblGamePa20716;
         public System.Windows.Forms.Label lblGamePa20715;
         public System.Windows.Forms.Label lblGamePa20714;
         public System.Windows.Forms.Label lblGamePa20713;
@@ -6868,7 +6604,6 @@
         public System.Windows.Forms.Label lblGamePa20711;
         public System.Windows.Forms.Label lblGamePa20710;
         public System.Windows.Forms.Label lblGamePa20709;
-        public System.Windows.Forms.Label lblGamePa20616;
         public System.Windows.Forms.Label lblGamePa20615;
         public System.Windows.Forms.Label lblGamePa20614;
         public System.Windows.Forms.Label lblGamePa20613;
@@ -6876,7 +6611,6 @@
         public System.Windows.Forms.Label lblGamePa20611;
         public System.Windows.Forms.Label lblGamePa20610;
         public System.Windows.Forms.Label lblGamePa20609;
-        public System.Windows.Forms.Label lblGamePa20516;
         public System.Windows.Forms.Label lblGamePa20515;
         public System.Windows.Forms.Label lblGamePa20514;
         public System.Windows.Forms.Label lblGamePa20513;
@@ -6884,7 +6618,6 @@
         public System.Windows.Forms.Label lblGamePa20511;
         public System.Windows.Forms.Label lblGamePa20510;
         public System.Windows.Forms.Label lblGamePa20509;
-        public System.Windows.Forms.Label lblGamePa20416;
         public System.Windows.Forms.Label lblGamePa20415;
         public System.Windows.Forms.Label lblGamePa20414;
         public System.Windows.Forms.Label lblGamePa20413;
@@ -6892,7 +6625,6 @@
         public System.Windows.Forms.Label lblGamePa20411;
         public System.Windows.Forms.Label lblGamePa20410;
         public System.Windows.Forms.Label lblGamePa20409;
-        public System.Windows.Forms.Label lblGamePa20316;
         public System.Windows.Forms.Label lblGamePa20315;
         public System.Windows.Forms.Label lblGamePa20314;
         public System.Windows.Forms.Label lblGamePa20313;
@@ -6900,7 +6632,6 @@
         public System.Windows.Forms.Label lblGamePa20311;
         public System.Windows.Forms.Label lblGamePa20310;
         public System.Windows.Forms.Label lblGamePa20309;
-        public System.Windows.Forms.Label lblGamePa20216;
         public System.Windows.Forms.Label lblGamePa20215;
         public System.Windows.Forms.Label lblGamePa20214;
         public System.Windows.Forms.Label lblGamePa20213;
@@ -6908,8 +6639,6 @@
         public System.Windows.Forms.Label lblGamePa20211;
         public System.Windows.Forms.Label lblGamePa20210;
         public System.Windows.Forms.Label lblGamePa20209;
-        public System.Windows.Forms.Label lblGamePa20116;
-        public System.Windows.Forms.Label lblGamePa20115;
         public System.Windows.Forms.Label lblGamePa20114;
         public System.Windows.Forms.Label lblGamePa20113;
         public System.Windows.Forms.Label lblGamePa20112;
@@ -6923,7 +6652,6 @@
         public System.Windows.Forms.Label lblGamePa20704;
         public System.Windows.Forms.Label lblGamePa20703;
         public System.Windows.Forms.Label lblGamePa20702;
-        public System.Windows.Forms.Label lblGamePa20701;
         public System.Windows.Forms.Label lblGamePa20608;
         public System.Windows.Forms.Label lblGamePa20607;
         public System.Windows.Forms.Label lblGamePa20606;
@@ -6931,7 +6659,6 @@
         public System.Windows.Forms.Label lblGamePa20604;
         public System.Windows.Forms.Label lblGamePa20603;
         public System.Windows.Forms.Label lblGamePa20602;
-        public System.Windows.Forms.Label lblGamePa20601;
         public System.Windows.Forms.Label lblGamePa20508;
         public System.Windows.Forms.Label lblGamePa20507;
         public System.Windows.Forms.Label lblGamePa20506;
@@ -6939,7 +6666,6 @@
         public System.Windows.Forms.Label lblGamePa20504;
         public System.Windows.Forms.Label lblGamePa20503;
         public System.Windows.Forms.Label lblGamePa20502;
-        public System.Windows.Forms.Label lblGamePa20501;
         public System.Windows.Forms.Label lblGamePa20408;
         public System.Windows.Forms.Label lblGamePa20407;
         public System.Windows.Forms.Label lblGamePa20406;
@@ -6947,7 +6673,6 @@
         public System.Windows.Forms.Label lblGamePa20404;
         public System.Windows.Forms.Label lblGamePa20403;
         public System.Windows.Forms.Label lblGamePa20402;
-        public System.Windows.Forms.Label lblGamePa20401;
         public System.Windows.Forms.Label lblGamePa20308;
         public System.Windows.Forms.Label lblGamePa20307;
         public System.Windows.Forms.Label lblGamePa20306;
@@ -6955,7 +6680,6 @@
         public System.Windows.Forms.Label lblGamePa20304;
         public System.Windows.Forms.Label lblGamePa20303;
         public System.Windows.Forms.Label lblGamePa20302;
-        public System.Windows.Forms.Label lblGamePa20301;
         public System.Windows.Forms.Label lblGamePa20208;
         public System.Windows.Forms.Label lblGamePa20207;
         public System.Windows.Forms.Label lblGamePa20206;
@@ -6963,15 +6687,12 @@
         public System.Windows.Forms.Label lblGamePa20204;
         public System.Windows.Forms.Label lblGamePa20203;
         public System.Windows.Forms.Label lblGamePa20202;
-        public System.Windows.Forms.Label lblGamePa20201;
         public System.Windows.Forms.Label lblGamePa20108;
         public System.Windows.Forms.Label lblGamePa20107;
         public System.Windows.Forms.Label lblGamePa20106;
         public System.Windows.Forms.Label lblGamePa20105;
         public System.Windows.Forms.Label lblGamePa20104;
         public System.Windows.Forms.Label lblGamePa20103;
-        public System.Windows.Forms.Label lblGamePa20102;
-        public System.Windows.Forms.Label lblGamePa20101;
         private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Label label175;
         private System.Windows.Forms.Label lbl_GameResult_Text;
