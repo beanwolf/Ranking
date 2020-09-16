@@ -638,7 +638,7 @@
             this.pan_Login.Controls.Add(this.label2);
             this.pan_Login.Location = new System.Drawing.Point(599, 37);
             this.pan_Login.Name = "pan_Login";
-            this.pan_Login.Size = new System.Drawing.Size(543, 274);
+            this.pan_Login.Size = new System.Drawing.Size(399, 252);
             this.pan_Login.TabIndex = 20;
             // 
             // lbl_LoginMessage
@@ -672,8 +672,8 @@
             // 
             // Pan_UserList
             // 
-            this.Pan_UserList.Controls.Add(this.btn_EasyStart);
             this.Pan_UserList.Controls.Add(this.listViewUserList);
+            this.Pan_UserList.Controls.Add(this.btn_EasyStart);
             this.Pan_UserList.Controls.Add(this.button2);
             this.Pan_UserList.Controls.Add(this.panel2);
             this.Pan_UserList.Controls.Add(this.MyLvNId);
@@ -703,7 +703,7 @@
             this.listViewUserList.HideSelection = false;
             this.listViewUserList.Location = new System.Drawing.Point(7, 175);
             this.listViewUserList.Name = "listViewUserList";
-            this.listViewUserList.Size = new System.Drawing.Size(228, 377);
+            this.listViewUserList.Size = new System.Drawing.Size(120, 180);
             this.listViewUserList.SmallImageList = this.imageList1;
             this.listViewUserList.TabIndex = 0;
             this.listViewUserList.UseCompatibleStateImageBehavior = false;
@@ -1815,7 +1815,7 @@
             this.pan_GAMEBoard2.Controls.Add(this.panel5);
             this.pan_GAMEBoard2.Location = new System.Drawing.Point(15, 40);
             this.pan_GAMEBoard2.Name = "pan_GAMEBoard2";
-            this.pan_GAMEBoard2.Size = new System.Drawing.Size(993, 619);
+            this.pan_GAMEBoard2.Size = new System.Drawing.Size(237, 107);
             this.pan_GAMEBoard2.TabIndex = 28;
             this.pan_GAMEBoard2.Visible = false;
             // 

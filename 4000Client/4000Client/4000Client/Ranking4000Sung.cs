@@ -51,7 +51,7 @@ namespace _4000Client
         //==============================================================
         //true : 개발용, false : 배포용
       
-#if false    //개발용
+#if true    //개발용
         private int LocalIPUse = 1;                         // 로컬 OR 서버       어디접속할건지 1:로컬 2:서버
         public int _AutoLogin_Air = 1;  //자동로그인시킬건가:1, 0:아니오
 
